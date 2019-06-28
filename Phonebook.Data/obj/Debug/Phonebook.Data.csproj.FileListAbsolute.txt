@@ -1,0 +1,5 @@
+C:\Users\Alex_\Documents\Visual Studio 2013\Projects\Phonebook\Phonebook.Data\bin\Debug\Phonebook.Data.dll.config
+C:\Users\Alex_\Documents\Visual Studio 2013\Projects\Phonebook\Phonebook.Data\bin\Debug\Phonebook.Data.dll
+C:\Users\Alex_\Documents\Visual Studio 2013\Projects\Phonebook\Phonebook.Data\bin\Debug\Phonebook.Data.pdb
+C:\Users\Alex_\Documents\Visual Studio 2013\Projects\Phonebook\Phonebook.Data\obj\Debug\Phonebook.Data.dll
+C:\Users\Alex_\Documents\Visual Studio 2013\Projects\Phonebook\Phonebook.Data\obj\Debug\Phonebook.Data.pdb

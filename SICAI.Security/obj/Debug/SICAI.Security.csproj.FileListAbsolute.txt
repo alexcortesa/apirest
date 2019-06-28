@@ -1,0 +1,7 @@
+C:\Users\Alex_\Documents\Visual Studio 2013\Projects\Phonebook\SICAI.Security\bin\Debug\SICAI.Security.dll
+C:\Users\Alex_\Documents\Visual Studio 2013\Projects\Phonebook\SICAI.Security\bin\Debug\SICAI.Security.pdb
+C:\Users\Alex_\Documents\Visual Studio 2013\Projects\Phonebook\SICAI.Security\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alex_\Documents\Visual Studio 2013\Projects\Phonebook\SICAI.Security\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex_\Documents\Visual Studio 2013\Projects\Phonebook\SICAI.Security\obj\Debug\SICAI.Security.dll
+C:\Users\Alex_\Documents\Visual Studio 2013\Projects\Phonebook\SICAI.Security\obj\Debug\SICAI.Security.pdb
+C:\Users\Alex_\Documents\Visual Studio 2013\Projects\Phonebook\SICAI.Security\obj\Debug\SICAI.Security.csprojResolveAssemblyReference.cache
